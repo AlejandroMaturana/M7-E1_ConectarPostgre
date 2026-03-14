@@ -1,0 +1,27 @@
+{
+  "name": "M7-E1_ConectarPostgre",
+  "version": "1.0.0",
+  "description": "Tarea de Conexión a PostgreSQL",
+  "main": "db-connect.js",
+  "scripts": {
+    "start": "node db-connect.js",
+    "dev": "nodemon db-connect.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PostgreSQL",
+    "Node.js",
+    "Async/Await",
+    "Dependencias",
+    "DevDependencies"
+  ],
+  "author": "Manuel González Lozano",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
