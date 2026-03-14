@@ -129,3 +129,5 @@ Esta carpeta incluye varios archivos para ayudarte a entender completamente el e
 ✓ Variables de entorno para seguridad  
 ✓ Mejores prácticas profesionales  
 ✓ Cómo debuggear problemas de conexión
+
+**Se elige para este ejercicio el uso de PNPM en vez de NPM**
